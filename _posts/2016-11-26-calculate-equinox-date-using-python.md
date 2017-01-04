@@ -28,7 +28,8 @@ Same for Vernal Equinox which can be calculated by using `ephem.next_spring_equi
 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 var disqus_config = function () {
-this.page.url = "{{ page.url | absolute_url }}";  // Replace PAGE_URL with your page's canonical URL variable
+//this.page.url = "{{ page.url | absolute_url }}";  // Replace PAGE_URL with your page's canonical URL variable
+this.page.url = "http://blog.tranvinhcuong.me/python/calendar/2016/11/26/calculate-equinox-date-using-python.html";
 this.page.identifier = "2016-11-26-calculate-equinox-date-using-python"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 (function() { // DON'T EDIT BELOW THIS LINE
