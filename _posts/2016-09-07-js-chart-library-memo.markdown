@@ -2,7 +2,7 @@
 layout: post
 title:  "JS Chart library memo"
 date:   2016-09-08 12:38:00 +0900
-comments: true
+comments: false
 categories: javascript charts visualization
 ---
 
